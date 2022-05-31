@@ -1,0 +1,1 @@
+{"buildTargets":["clean","default","install","install_requirements","pylint","run_locally"],"launchTargets":[],"customConfigurationProvider":{"workspaceBrowse":{"browsePath":[],"compilerArgs":[]},"fileIndex":[]}}

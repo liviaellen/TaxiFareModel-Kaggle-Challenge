@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/livia_ellen/code/liviaellen/TaxiFareModel/mlruns/1/e7167585ea21474291d403f9c2a66efd/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: e7167585ea21474291d403f9c2a66efd
+run_uuid: e7167585ea21474291d403f9c2a66efd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1653957305739
+status: 1
+tags: []
+user_id: unknown

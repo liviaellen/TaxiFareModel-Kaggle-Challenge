@@ -1,0 +1,5 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/livia_ellen/code/liviaellen/TaxiFareModel'
+find . -iname "*.py" -not -path "./tests/*" | xargs -n1 -I {}  pylint --output-format=colorized {}; true
+make: Leaving directory `/Users/livia_ellen/code/liviaellen/TaxiFareModel'
+ 
